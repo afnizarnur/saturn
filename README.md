@@ -8,11 +8,11 @@ You can easily download the template from the [release](https://github.com/afniz
 ```
 npm install
 ```
-- Want to customize the template? Just run this command
+- Want to run locally and customize the template? Just run this command
 ```
 gulp serve
 ```
-and then start customizing the CSS!
+and then start customizing the SCSS!
 
 ## License
 These template are licensed under the CC BY-NC-SA 4.0 License, which encourages you to share these documents. See https://creativecommons.org/licenses/by-nc/4.0/ for more details.
