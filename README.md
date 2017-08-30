@@ -15,6 +15,8 @@ gulp serve
 and then start customizing the SCSS!
 
 ## License
-These template are licensed under the CC BY-NC-SA 4.0 License, which encourages you to share these documents. See https://creativecommons.org/licenses/by-nc/4.0/ for more details.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+Saturn is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
+
+This template is designed and developed by Afnizar Nur Ghifari.
