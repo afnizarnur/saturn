@@ -1,5 +1,6 @@
 # Saturn
 A free PSD & HTML blog template. See the demo [here](http://saturn.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/saturn/releases). 
+![Saturn](https://user-images.githubusercontent.com/4648648/52061875-f1e83480-25a1-11e9-9ebe-4250fc6bf1b1.png)
 
 ## License
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
